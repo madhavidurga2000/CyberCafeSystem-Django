@@ -58,39 +58,39 @@ The database used is **SQLite** providing portability and easy management.
 
 ### Step-by-step Setup Instructions:
 
-1. **Clone the Repository**
+#1. **Clone the Repository**
 
    git clone https://github.com/madhavidurga2000/CyberCafeSystem-Django.git
    cd CyberCafeSystem-Django/cybercafe/ccms
-2. **Create & Activate Virtual Environment**
+#2. **Create & Activate Virtual Environment**
    
    python -m venv venv
 venv\Scripts\activate  # Windows
           or
 source venv/bin/activate  # Linux/Mac
-3.**Install Dependencies**
+#3.**Install Dependencies**
   pip install -r requirements.txt
-4.**Run Migrations**
+#4.**Run Migrations**
 python manage.py migrate
-5.**Run the Server**
+#5.**Run the Server**
 python manage.py runserver
-6.**Open in Browser**
+#6.**Open in Browser**
 Go to http://127.0.0.1:8000
-🔑 Default Admin Login (Example)
+#🔑 Default Admin Login (Example)
 Role	Username	Password
 Admin	admin@cyber.com	Test@123
 
 (Replace with your actual login credentials)
 
-📹 Demo Video
+##📹 Demo Video
 ▶️ Click here to download and watch the demo video
 
-👩‍💻 Author
+##👩‍💻 Author
 Madhavi Durga
 Email: madhavidurga2000@gmail.com
 GitHub: @madhavidurga2000
 
-📄 License
+##📄 License
 This project is for educational use. Feel free to use or improve it with credit.
 
 
