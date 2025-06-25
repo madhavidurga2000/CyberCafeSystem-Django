@@ -89,8 +89,7 @@ Admin	admin@cyber.com	Test@123
 
 
 ## 📹 Demo Video  
-▶️ [Click here to download and watch the demo video](https://github.com/madhavidurga2000/CyberCafeSystem-Django/raw/master/demo1.mp4)
-
+▶️ [Click here to download and watch the demo video](https://raw.githubusercontent.com/madhavidurga2000/NetZone-CyberCafe-webapp/master/demo1.mp4)
 
 ##👩‍💻 Author
 Madhavi Durga
