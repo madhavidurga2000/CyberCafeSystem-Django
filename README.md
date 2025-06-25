@@ -87,8 +87,10 @@ Admin	admin@cyber.com	Test@123
 
 (Replace with your actual login credentials)
 
-##📹 Demo Video
-▶️ Click here to download and watch the demo video
+
+## 📹 Demo Video  
+▶️ [Click here to download and watch the demo video](https://github.com/madhavidurga2000/CyberCafeSystem-Django/raw/master/demo1.mp4)
+
 
 ##👩‍💻 Author
 Madhavi Durga
