@@ -66,7 +66,7 @@ The database used is **SQLite** providing portability and easy management.
    
    python -m venv venv
 venv\Scripts\activate  # Windows
-# OR
+          or
 source venv/bin/activate  # Linux/Mac
 3.**Install Dependencies**
   pip install -r requirements.txt
