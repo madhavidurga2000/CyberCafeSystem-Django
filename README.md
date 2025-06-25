@@ -1,4 +1,4 @@
-# 🌐💻  Cyber Cafe Management System - Django Web Application
+# 🌐💻  NetZone-CyberCafe- Django Web Application
 
 ---
 
