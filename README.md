@@ -58,7 +58,7 @@ The database used is **SQLite**, providing portability and easy management.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/madhavidurga2000/CyberCafeSystem-Django.git
+git clone https://github.com/madhavidurga2000/NetZone-CyberCafe-webapp.git
 cd CyberCafeSystem-Django/cybercafe/ccms
 
 # 2. Create and activate virtual environment
