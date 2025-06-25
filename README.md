@@ -1,4 +1,4 @@
-# ☕ Cyber Cafe Management System - Django Web Application
+# 🌐💻  Cyber Cafe Management System - Django Web Application
 
 ---
 
